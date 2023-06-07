@@ -1,0 +1,19 @@
+.container {
+  width: 70%;
+}
+.columns {
+  display: flex;
+  flex-direction: column;
+}
+.date-ccv {
+  display: flex;
+  justify-content: space-between;
+}
+input {
+  margin: 20px 0;
+}
+.ccv {
+  width: 50%;
+  align-self: end;
+  text-align: end;
+}

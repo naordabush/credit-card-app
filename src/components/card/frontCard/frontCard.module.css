@@ -1,0 +1,46 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.rowCards {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visaText {
+  height: 100%;
+  width: 20%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 170%;
+  font-style: italic;
+}
+
+.cip {
+  height: 69%;
+  width: 17.5%;
+  border-radius: 10px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/6404/6404100.png");
+  background-size: cover;
+  background-position-y: -6px;
+}
+
+.numberCard {
+  white-space: nowrap;
+  font-size: xx-large;
+  font-weight: 500;
+}
+
+.textBorder {
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+}

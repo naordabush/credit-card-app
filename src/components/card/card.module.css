@@ -1,0 +1,12 @@
+.container {
+  position: relative;
+  background-image: url("https://www.shutterstock.com/image-vector/beautiful-card-vector-illustration-600w-54980743.jpg");
+  background-position: -6px 0px;
+  height: 220px;
+  width: 350px;
+  border: solid 1px black;
+  border-radius: 20px;
+  box-shadow: black 2px 2px 4px;
+  display: flex;
+  align-self: center;
+}
