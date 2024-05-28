@@ -26,5 +26,12 @@ HTML
 CSS
 JavaScript
 
+## Screenshoots
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+![Screenshot 2024-05-28 164851](https://github.com/naordabush/credit-card-app/assets/65256155/93ad77b2-fea1-4f7f-a1ef-72ece8d4eba7)
+
+![Screenshot 2024-05-28 164859](https://github.com/naordabush/credit-card-app/assets/65256155/4045efed-8783-4776-9562-25959cb43d65)
+
+
+
+
